@@ -1,0 +1,5 @@
+1 - Iniciar um projeto node com Express;
+2 - Criar uma rota que apresente os principais propriedades de potencias;
+3 - Selecionar 10 exercicios básicos e apresentar sua resolução;
+4 - Busque 5 exercicios que foram utilizados nos vestibulares anteriores; --> um em cada rota;
+*Devolvido em JSON.
